@@ -3,7 +3,7 @@
 <eagle version="9.6.2">
 <drawing>
 <settings>
-<setting alwaysvectorfont="yes"/>
+<setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
 <grid distance="0.01" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.005" altunitdist="inch" altunit="inch"/>
@@ -196,9 +196,25 @@
 <wire x1="12.7" y1="40.64" x2="12.7" y2="38.1" width="0.1778" layer="22"/>
 <wire x1="12.7" y1="38.1" x2="27.94" y2="38.1" width="0.1778" layer="22"/>
 <wire x1="27.94" y1="38.1" x2="27.94" y2="40.64" width="0.1778" layer="22"/>
-<text x="34.798" y="0.508" size="1.778" layer="16" font="vector" ratio="15" rot="MR0">v01</text>
+<text x="34.798" y="0.508" size="1.778" layer="16" font="vector" ratio="15" rot="MR0">v10</text>
 <text x="48.768" y="-8.89" size="1.778" layer="51" font="vector">Alex Brudner</text>
 <text x="21.59" y="-12.192" size="1.778" layer="51" font="vector">Based on the SAM_M8Q by N. Seidle &amp; E. Santistevan</text>
+<dimension x1="0" y1="0" x2="0" y2="40.64" x3="-25.654" y3="20.32" textsize="1.778" layer="47" dtype="vertical" unit="inch"/>
+<dimension x1="0" y1="0" x2="2.54" y2="2.54" x3="-1.27" y3="1.27" textsize="1.778" layer="47" dtype="vertical" unit="inch"/>
+<dimension x1="0" y1="0" x2="13.97" y2="39.37" x3="-22.606" y3="19.685" textsize="1.778" layer="47" dtype="vertical" unit="inch"/>
+<dimension x1="0" y1="0" x2="2.54" y2="38.1" x3="-19.558" y3="19.05" textsize="1.778" layer="47" dtype="vertical" unit="inch"/>
+<dimension x1="0" y1="0" x2="5.08" y2="20.32" x3="-16.51" y3="10.16" textsize="1.778" layer="47" dtype="vertical" unit="inch"/>
+<dimension x1="0" y1="0" x2="20.32" y2="20.32" x3="-13.208" y3="10.16" textsize="1.778" layer="47" dtype="vertical" unit="inch"/>
+<dimension x1="0" y1="0" x2="11.43" y2="1.27" x3="-4.318" y3="0.635" textsize="1.778" layer="47" dtype="vertical" unit="inch"/>
+<dimension x1="0" y1="40.64" x2="40.64" y2="40.64" x3="20.32" y3="68.834" textsize="1.778" layer="47" dtype="horizontal" unit="inch"/>
+<dimension x1="0" y1="40.64" x2="38.1" y2="38.1" x3="19.05" y3="65.786" textsize="1.778" layer="47" dtype="horizontal" unit="inch"/>
+<dimension x1="0" y1="40.64" x2="35.56" y2="20.32" x3="17.78" y3="62.738" textsize="1.778" layer="47" dtype="horizontal" unit="inch"/>
+<dimension x1="0" y1="40.64" x2="20.32" y2="20.32" x3="10.16" y3="59.69" textsize="1.778" layer="47" dtype="horizontal" unit="inch"/>
+<dimension x1="0" y1="40.64" x2="13.97" y2="39.37" x3="6.985" y3="56.642" textsize="1.778" layer="47" dtype="horizontal" unit="inch"/>
+<dimension x1="0" y1="40.64" x2="11.43" y2="1.27" x3="5.715" y3="53.34" textsize="1.778" layer="47" dtype="horizontal" unit="inch"/>
+<dimension x1="0" y1="40.64" x2="5.08" y2="20.32" x3="2.54" y3="49.784" textsize="1.778" layer="47" dtype="horizontal" unit="inch"/>
+<dimension x1="0" y1="40.64" x2="2.54" y2="38.1" x3="1.27" y3="42.672" textsize="1.778" layer="47" dtype="horizontal" unit="inch"/>
+<text x="-23.622" y="45.466" size="1.778" layer="47" font="vector">All units in inches</text>
 </plain>
 <libraries>
 <library name="SparkFun-Aesthetics">
@@ -6413,7 +6429,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <elements>
 <element name="FRAME1" library="SparkFun-Aesthetics" package="CREATIVE_COMMONS" value="FRAME-LETTER" x="21.59" y="-8.89" smashed="yes">
 <attribute name="DESIGNER" value="Alex Brudner" x="21.59" y="-8.89" size="1.778" layer="27" display="off"/>
-<attribute name="REV" value="v01" x="21.59" y="-8.89" size="1.778" layer="27" display="off"/>
+<attribute name="REV" value="v10" x="21.59" y="-8.89" size="1.778" layer="27" display="off"/>
 </element>
 <element name="FD1" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="40.005" y="0.635" smashed="yes" rot="MR0"/>
 <element name="FD2" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="0.635" y="40.005" smashed="yes"/>
