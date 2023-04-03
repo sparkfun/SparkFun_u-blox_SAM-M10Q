@@ -1,41 +1,28 @@
-SparkFun <PRODUCT NAME>
+SparkFun GPS Breakout, Chip Antenna - SAM-M10Q (Qwiic)
 ========================================
 
-[![SparkFun Part Name](URL for picture of part)](URL for product on Sparkfun.com)
+[![SparkFun GPS Breakout, Chip Antenna - SAM-M10Q (Qwiic)](https://cdn.sparkfun.com/assets/parts/2/1/6/6/4/21834-_GPS-_01.jpg)](https://www.sparkfun.com/products/21834)
 
-[*SparkFun Part Name (SKU)*](URL for product on Sparkfun.com)
+[*SparkFun GPS Breakout, Chip Antenna - SAM-M10Q (Qwiic) (GPS-21834)*](https://www.sparkfun.com/products/21834)
 
-<Basic description of the part.>
+The SparkFun SAM-M10Q GPS Breakout features the the SAM-M10Q chip-antenna module from u-blox<sup>&copy;</sup>. The SAM-M10Q can receive up to four GNSS constellations at once which improves time-to-fix and positional accuracy even in areas with limited view of the sky. The module includes a built-in chip antenna and is compatible with the L1 band on all five GNSS constellations (GPS L1 C/A, QZSS L1 C/A L1S, GLONASS L1OF, BeiDou B1C, and Galileo E1B/C). It has a horizontal position accuracy of 1.5 m, max update rate of 18 Hz when transmitting with just one GNSS constellation (max of 5Hz with 4 GNSS) and a cold start time to fix of 23 seconds. The board includes a rechargeable 3V/1mAh battery to provide backup power for up to four hours to maintain a hot start of just 1 second.
 
 Repository Contents
 -------------------
 
 * **/Documentation** - Data sheets, additional product information
-* **/Enclosure** - Enclosure files 
-* **/Firmware** - Example code 
 * **/Hardware** - Eagle design files (.brd, .sch)
-* **/Libraries** - Libraries for use with the <PRODUCT NAME>
+* **/docs** - Hookup Guide files for the GPS Breakout, Chip Antenna - SAM-M10Q (Qwiic)
 * **/Production** - Production panel files (.brd)
-* **/Software** - Related software for the <PRODUCT NAME>
 
 Documentation
 --------------
-* **[Library](GitHub library URL)** - <LANGUAGE> library for the <PRODUCT NAME>.
-* **[Hookup Guide](Learn.SparkFun URL)** - Basic hookup guide for the <PRODUCT NAME>.
-* **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.
-* **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products. 
-* **[SparkFun Graphical Datasheets](https://github.com/sparkfun/Graphical_Datasheets)** -Graphical Datasheets for various SparkFun products.
+* **[Library](https://github.com/sparkfun/SparkFun_u-blox_GNSS_v3)** - Arduino library for the SparkFun u-blox boards v3.
+* **[Hookup Guide](https://docs.sparkfun.com/SparkFun_u-blox_SAM-M10Q)** - Basic hookup guide for the GPS Breakout, Chip Antenna - SAM-M10Q (Qwiic).
 
 Product Versions
 ----------------
-* [Part SKU](part URL)- Basic part and short description here
-* [Retail part SKU](retail URL)- Retail packaging of standard description here
-* [Any other parts this repo covers](any other URLs) - Description of said parts
-
-Version History
----------------
-* [vExxFxxZxxHxxLxxSxx](URL for tag specific to this version) - Description 
-* [vEyyFyyZyyHyyLyySyy](URL for tag specific to this version) - Description
+* [GPS-21834](https://www.sparkfun.com/products/21834)- Initial release
 
 License Information
 -------------------
@@ -49,5 +36,3 @@ If you have any questions or concerns on licensing, please contact technical sup
 Distributed as-is; no warranty is given.
 
 - Your friends at SparkFun.
-
-_<COLLABORATION CREDIT>_
