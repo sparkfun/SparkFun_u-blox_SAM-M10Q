@@ -18,7 +18,7 @@ icon: fontawesome/solid/scroll
 --8<-- "./docs/arduino_setup.md"
 
 # Arduino Examples
---8<-- "./docs/arduino_examples.md"
+--8<-- "./docs/arduino_example.md"
 
 # Troubleshooting
 --8<-- "./docs/troubleshooting.md"

@@ -1,7 +1,7 @@
 # Documentation Page information
 site_name: SparkFun SAM-M10Q GPS Breakout Hookup Guide
 site_description: A guide for users to get started with the SparkFun GPS Breakout - Chip Antenna, SAM-M10Q (Qwiic).
-site_url: https://sparkfun.github.io/SparkFun_SAM-M10Q_GPS_Breakout
+site_url: https://sparkfun.github.io/SparkFun_u-blox_SAM-M10Q
 site_author: SparkFun Electronics
 
 repo_url: https://github.com/sparkfun/SparkFun_u-blox_SAM-M10Q
@@ -20,7 +20,7 @@ theme:
   name: material
 
   # Icon in Browser Tab (must be square img - i.e. 32x32 pixels)
-  favicon: assets/img/sfe_logo_sq.png
+  favicon: images/sfe_logo_sq.png
 
   # Page Font
   font:
@@ -125,13 +125,14 @@ theme:
       link: octicons/link-16
 
   # Adds PDF icon to download hookup guide
-  custom_dir: overrides
+  # custom_dir: docs/stylesheet
 
 
 # Included MkDocs plugins
 # Add the installation of any new plugins to the ./github/workflows/mkdocs.yml file also
 plugins:
   - search
+  - typeset
   - redirects:
       redirect_maps:
           'index.md': 'introduction.md'
@@ -146,7 +147,6 @@ plugins:
   # Add git autors at bottom of the page
   # Enables use of Git submodules and larger code base
   - monorepo
-  # For PDF rendering
 
 
 
@@ -209,7 +209,7 @@ extra:
 
 # Configures styling for PDF rendering and webpage layout
 extra_css:
-  - overrides/extra.css
+  - stylesheet/extra.css
 
 # Configures Page/Tab Navigation
 nav:
@@ -219,7 +219,7 @@ nav:
     - Hardware Assembly: hardware_assembly.md
     - Software - SparkFun u-blox GNSS Arduino Library v3:
       - Installation & Setup: arduino_setup.md
-      - Examples: arduino_examples.md       
+      - Examples: arduino_example.md       
   - Resources: resources.md
   - Support:
     - Troubleshooting: troubleshooting.md
