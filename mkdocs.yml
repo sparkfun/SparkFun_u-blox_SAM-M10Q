@@ -123,9 +123,9 @@ theme:
       serial: fontawesome/solid/display
       # Permalink icon
       link: octicons/link-16
-
-  # Adds PDF icon to download hookup guide
-  # custom_dir: docs/stylesheet
+      
+  # Adds overrides for stylesheets, html, etc.
+  custom_dir: overrides
 
 
 # Included MkDocs plugins
