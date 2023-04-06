@@ -89,7 +89,7 @@ The module can receive up to four GNSS constellations at a time allowing for exc
         <td>-154</td> 
     </tr>
 </table>
-<!-- <table>
+<table>
     <th colspan="7">Multi-GNSS Constellation Modes</th>
     <tr align="center">
         <td align="left">Parameter</td>
@@ -109,7 +109,62 @@ The module can receive up to four GNSS constellations at a time allowing for exc
         <td>8</td>
         <td>10</td>
     </tr>
-</table> -->
+    <tr align="center">
+        <td align="left">Horizontal Position Accuracy</td>
+        <td>-</td>
+        <td>m</td>
+        <td>1.5</td>
+        <td>1.5</td>
+        <td>1.5</td>
+        <td>1.5</td>
+    </tr>
+    <tr align="center">
+        <td align="left" rowspan="2">Time-To-First-Fix</td>
+        <td>Cold Start</td>
+        <td rowspan="2">s</td>
+        <td>23</td>
+        <td>23</td>
+        <td>28</td>
+        <td>28</td>
+    </tr>
+    <tr align="center">
+        <td>Hot Start</td>
+        <td>1</td>
+        <td>1</td>
+        <td>1</td>
+        <td>1</td>
+    </tr>
+    <tr align="center">
+        <td align="left" rowspan="4">Sensitivity</td>
+        <td>Tracking and Navigation</td>
+        <td rowspan="4">dBm</td>
+        <td>-165</td>
+        <td>-165</td>
+        <td>-165</td>
+        <td>-165</td>
+    </tr>
+    <tr align="center">
+        <td>Reacquisition</td>
+        <td>-158</td>
+        <td>-158</td>
+        <td>-158</td>
+        <td>-158</td>
+    </tr>
+    <tr align="center">
+        <td>Cold Start</td>
+        <td>-146</td>
+        <td>-146</td>
+        <td>-146</td>
+        <td>-146</td>
+    </tr>
+    <tr align="center">
+        <td>Hot Start</td>
+        <td>-157</td>
+        <td>-157</td>
+        <td>-157</td>
+        <td>-157</td>
+    </tr>
+</table>
 
 ## Backup Battery
 
