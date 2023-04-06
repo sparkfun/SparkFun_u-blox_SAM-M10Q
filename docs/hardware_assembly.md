@@ -5,7 +5,8 @@ Now that we're familiar with the hardware on this breakout, let's assemble it in
 With the Qwiic system, simply connect the GNSS Breakout to your chosen Qwiic-enabled microcontroller (in this case the RedBoard Artemis) using a Qwiic cable like the image below:
 
 <center>
-[![Qwiic Assembly](./assets/images/u-blox_SAM-M10Q-Assembly.jpg)](./assets/images/u-blox_SAM-M10Q-Assembly.jpg "Click to enlarge")
+[![Qwiic Assembly](./assets/images/u-blox_SAM-M10Q-Assembly.jpg){ width="600" }](./assets/images/u-blox_SAM-M10Q-Assembly.jpg "Click to enlarge")
+</center>
 
 Since the SAM-M10Q has an on-chip antenna, no external antenna is required so just plug your microcontroller into your computer and start using the board with the SparkFun u-blox Arduino Library.
 
@@ -19,3 +20,4 @@ If you prefer to configure and use the SAM-M10Q's with u-center either through U
     ![How to Solder: Through-Hole Soldering](https://cdn.sparkfun.com/c/264-148/assets/e/3/9/9/4/51d9fbe1ce395f7a2a000000.jpg)
     </figure>
     </a>
+</div>
