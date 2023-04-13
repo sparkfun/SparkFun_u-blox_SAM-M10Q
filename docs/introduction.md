@@ -33,7 +33,9 @@ To follow along with this guide you will need a microcontroller to communicate w
     ![SparkFun Thing Plus - ESP32 WROOM (USB-C)](https://cdn.sparkfun.com//assets/parts/1/9/9/6/8/20168Diagonal.jpg)
     </figure>
     </a>
+
     ---
+
     <a href="https://www.sparkfun.com/products/20168">
     **SparkFun Thing Plus - ESP32 WROOM (USB-C)**<br>
     DEV-20168
@@ -45,7 +47,9 @@ To follow along with this guide you will need a microcontroller to communicate w
     ![SparkFun RedBoard Plus](https://cdn.sparkfun.com//assets/parts/1/7/4/8/7/18158-SparkFun_RedBoard_Plus-01.jpg)
     </figure>
     </a>
+
     ---
+
     <a href="https://www.sparkfun.com/products/18158">
     **SparkFun RedBoard Plus**<br>
     DEV-18158
@@ -57,7 +61,9 @@ To follow along with this guide you will need a microcontroller to communicate w
     ![SparkFun Thing Plus - Artemis](https://cdn.sparkfun.com//assets/parts/1/4/1/7/0/15574-SparkFun_Thing_Plus_-_Artemis-01.jpg)
     </figure>
     </a>
+
     ---
+
     <a href="https://www.sparkfun.com/products/15574">
     **SparkFun Thing Plus - Artemis**<br>
     DEV-18158
@@ -69,7 +75,9 @@ To follow along with this guide you will need a microcontroller to communicate w
     ![SparkFun RedBoard Artemis](https://cdn.sparkfun.com//assets/parts/1/4/0/1/9/15444-SparkFun_RedBoard_Artemis-01.jpg)
     </figure>
     </a>
+
     ---
+
     <a href="https://www.sparkfun.com/products/15444">**SparkFun RedBoard Artemis**<br>
     DEV-15444
     </a>
@@ -85,7 +93,9 @@ If your chosen microcontroller is not already Qwiic-enabled, you can add that fu
     ![SparkFun Qwiic Cable Kit)](https://cdn.sparkfun.com//assets/parts/1/3/4/3/1/15081-Qwiic_Cable_Kit_-01.jpg)
     </figure>
     </a>
+
     ---
+
     <a href="https://www.sparkfun.com/products/15081">
     **SparkFun Qwiic Cable Kit**<br>
     KIT-15081
@@ -97,7 +107,9 @@ If your chosen microcontroller is not already Qwiic-enabled, you can add that fu
     ![SparkFun Qwiic Adapter](https://cdn.sparkfun.com//assets/parts/1/2/5/5/1/14495-01.jpg)
     </figure>
     </a>
+
     ---
+
     <a href="https://www.sparkfun.com/products/14495">
     **SparkFun Qwiic Adapter**<br>
     DEV-14495
@@ -109,7 +121,9 @@ If your chosen microcontroller is not already Qwiic-enabled, you can add that fu
     ![SparkFun Qwiic Shield for Arduino](https://cdn.sparkfun.com//assets/parts/1/2/3/4/3/14352-01.jpg)
     </figure>
     </a>
+
     ---
+
     <a href="https://www.sparkfun.com/products/14352">
     **SparkFun Qwiic Shield for Arduino**<br>
     DEV-14352
@@ -121,7 +135,9 @@ If your chosen microcontroller is not already Qwiic-enabled, you can add that fu
     ![SparkFun Qwiic Shield for Thing Plus](https://cdn.sparkfun.com//assets/parts/1/5/6/9/7/16790-SparkFun_Qwiic_Shield_for_Thing_Plus-05.jpg)
     </figure>
     </a>
+
     ---
+
     <a href="https://www.sparkfun.com/products/16790">
     **SparkFun Qwiic Shield for Thing Plus**<br>
     DEV-16790
@@ -138,7 +154,9 @@ You will also need at least one Qwiic cable to connect your GPS breakout to your
     ![Flexible Qwiic Cable - 100mm)](https://cdn.sparkfun.com//assets/parts/1/6/2/4/6/17259-Flexible_Qwiic_Cable_-_100mm-01.jpg)
     </figure>
     </a>
+
     ---
+
     <a href="https://www.sparkfun.com/products/17259">
     **Flexible Qwiic Cable - 100mm**<br>
     PRT-17259
@@ -150,7 +168,9 @@ You will also need at least one Qwiic cable to connect your GPS breakout to your
     ![Qwiic Cable - 50mm](https://cdn.sparkfun.com//assets/parts/1/6/2/4/7/17260-Flexible_Qwiic_Cable_-_50mm-01.jpg)
     </figure>
     </a>
+
     ---
+
     <a href="https://www.sparkfun.com/products/17260">
     **Flexible Qwiic Cable - 50mm**<br>
     PRT-17260
@@ -162,7 +182,9 @@ You will also need at least one Qwiic cable to connect your GPS breakout to your
     ![Flexible Qwiic Cable - 500mm](https://cdn.sparkfun.com//assets/parts/1/6/2/4/4/17257-Flexible_Qwiic_Cable_-_500mm-01.jpg)
     </figure>
     </a>
+
     ---
+
     <a href="https://www.sparkfun.com/products/17257">
     **Flexible Qwiic Cable - 500mm**<br>
     PRT-17257
@@ -174,7 +196,9 @@ You will also need at least one Qwiic cable to connect your GPS breakout to your
     ![Flexible Qwiic Cable - Female Jumper (4-pin)](https://cdn.sparkfun.com//assets/parts/1/6/2/4/8/17261-Flexible_Qwiic_Cable_-_Female_Jumper__4-pin_-01.jpg)
     </figure>
     </a>
+
     ---
+
     <a href="https://www.sparkfun.com/products/17261">**Flexible Qwiic Cable - Female Jumper (4-pin)**<br>
     CAB-17261
     </a>
@@ -192,7 +216,9 @@ If you prefer a soldered connection or want to modify the solder jumpers on this
     ![Break Away Headers - Straight)](https://cdn.sparkfun.com//assets/parts/1/0/6/00116-02-L.jpg)
     </figure>
     </a>
+
     ---
+
     <a href="https://www.sparkfun.com/products/116">
     **Break Away Headers - Straight**<br>
     PRT-00116
@@ -204,7 +230,9 @@ If you prefer a soldered connection or want to modify the solder jumpers on this
     ![SparkFun Beginner Tool Kit](https://cdn.sparkfun.com//assets/parts/1/2/8/8/3/14681-SparkFun_Beginner_Tool_Kit.jpg)
     </figure>
     </a>
+
     ---
+
     <a href="https://www.sparkfun.com/products/14681">
     **SparkFun Beginner Tool Kit**<br>
     TOL-14681
@@ -216,7 +244,9 @@ If you prefer a soldered connection or want to modify the solder jumpers on this
     ![Hobby Knife](https://cdn.sparkfun.com//assets/parts/2/6/4/6/09200-Hobby_Knife-01.jpg)
     </figure>
     </a>
+
     ---
+
     <a href="https://www.sparkfun.com/products/9200">
     **Hobby Knife**<br>
     TOL-09200
@@ -228,7 +258,9 @@ If you prefer a soldered connection or want to modify the solder jumpers on this
     ![Chip Quik No-Clean Flux Pen - 10mL](https://cdn.sparkfun.com//assets/parts/1/2/7/2/5/14579-Chip_Quik_No-Clean_Flux_Pen_-_10mL-01.jpg)
     </figure>
     </a>
+
     ---
+
     <a href="https://www.sparkfun.com/products/14579">**Chip Quik No-Clean Flux Pen - 10mL**<br>
     CAB-14579
     </a>
@@ -253,85 +285,113 @@ We designed this board for integration into SparkFun's Qwiic connect system.  Cl
 
 Before getting started with this Hookup Guide, you may want to read through the tutorials below if you are not familiar with the concepts covered in them or want a refresher. If you are using either of the Qwiic Shields linked above, we recommend reading through their respective Hookup Guides before continuing with this tutorial:
 
-<div class="grid cards hide col-4" markdown align="center">
--   <a href="https://learn.sparkfun.com/tutorials/99">
+<div class="grid cards" markdown align="center">
+
+-   <a href="https://learn.sparkfun.com/tutorials/9">
+
     <figure markdown>
-    ![GPS Basics](https://cdn.sparkfun.com/assets/3/6/6/f/7/50edfc17ce395f7105000000.jpg)
+    ![GPS Basics](https://cdn.sparkfun.com/c/178-100/assets/3/6/6/f/7/50edfc17ce395f7105000000.jpg)
     </figure>
     </a>
+
     ---
-    <a href="https://learn.sparkfun.com/tutorials/99">**GPS Basics**
+
+    <a href="https://learn.sparkfun.com/tutorials/9">**GPS Basics**
     </a>
 
 -   <a href="https://learn.sparkfun.com/tutorials/8">
+
     <figure markdown>
-    ![Serial Communication](https://cdn.sparkfun.com/c/264-148/assets/7/d/f/9/9/50d24be7ce395f1f6c000000.jpg)
+    ![Serial Communication](https://cdn.sparkfun.com/c/178-100/assets/7/d/f/9/9/50d24be7ce395f1f6c000000.jpg)
     </figure>
     </a>
+
     ---
+
     <a href="https://learn.sparkfun.com/tutorials/8">**Serial Communication**
     </a>
 
 -   <a href="https://learn.sparkfun.com/tutorials/82">
+
     <figure markdown>
-    ![I2C](https://cdn.sparkfun.com/c/264-148/assets/7/d/f/9/9/50d24be7ce395f1f6c000000.jpg)
+    ![I2C](https://cdn.sparkfun.com/c/178-100/assets/learn_tutorials/8/2/I2C-Block-Diagram.jpg)
     </figure>
     </a>
+
     ---
+
     <a href="https://learn.sparkfun.com/tutorials/82">**I2C**
     </a>
 
 -   <a href="https://learn.sparkfun.com/tutorials/16">
+
     <figure markdown>
     ![Serial Peripheral Interface (SPI)](https://cdn.sparkfun.com/c/264-148/assets/learn_tutorials/1/6/spiThumb_Updated.jpg)
     </figure>
     </a>
+
     ---
+
     <a href="https://learn.sparkfun.com/tutorials/16">**Serial Peripheral Interface (SPI)**
     </a>
 
 -   <a href="https://learn.sparkfun.com/tutorials/62">
+
     <figure markdown>
     ![Logic Levels](https://cdn.sparkfun.com/c/264-148/assets/learn_tutorials/6/2/Input_Output_Logic_Level_Tolerances_tutorial_tile.png)
     </figure>
     </a>
+
     ---
+
     <a href="https://learn.sparkfun.com/tutorials/62">**Logic Levels**
     </a>
 
 -   <a href="https://learn.sparkfun.com/tutorials/664">
+
     <figure markdown>
     ![How to Work with Jumper Pads and PCB Traces](https://cdn.sparkfun.com/c/264-148/assets/learn_tutorials/6/6/4/PCB_TraceCutLumenati.jpg)
     </figure>
     </a>
+
     ---
+
     <a href="https://learn.sparkfun.com/tutorials/664">**How to Work with Jumper Pads and PCB Traces**
     </a>
 
 -   <a href="https://learn.sparkfun.com/tutorials/815">
+
     <figure markdown>
     ![Getting Started with u-center](https://cdn.sparkfun.com/c/178-100/assets/learn_tutorials/8/1/5/u-center.jpg)
     </figure>
     </a>
+
     ---
+
     <a href="https://learn.sparkfun.com/tutorials/815">**Getting Started with u-center**
     </a>
 
 -   <a href="https://learn.sparkfun.com/tutorials/684">
+
     <figure markdown>
     ![Qwiic Shield for Arduino & Photon Hookup Guide](https://cdn.sparkfun.com/c/178-100/assets/learn_tutorials/6/8/4/Qwic_Shield_Hookup_Guide-05.jpg)
     </figure>
     </a>
+
     ---
+
     <a href="https://learn.sparkfun.com/tutorials/684">**Qwiic Shield for Arduino & Photon Hookup Guide**
     </a>
 
 -   <a href="https://learn.sparkfun.com/tutorials/1107">
+
     <figure markdown>
     ![Qwiic Shield for Thing Plus Hookup Guide](https://cdn.sparkfun.com/c/178-100/assets/learn_tutorials/1/1/0/7/16138-SparkFun_Qwiic_Shield_for_Thing_Plus-01_Thumb.jpg)
     </figure>
     </a>
+
     ---
+
     <a href="https://learn.sparkfun.com/tutorials/1107">**Qwiic Shield for Thing Plus Hookup Guide**
     </a>
 </div>
