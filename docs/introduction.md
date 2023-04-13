@@ -285,6 +285,7 @@ We designed this board for integration into SparkFun's Qwiic connect system.  Cl
 
 Before getting started with this Hookup Guide, you may want to read through the tutorials below if you are not familiar with the concepts covered in them or want a refresher. If you are using either of the Qwiic Shields linked above, we recommend reading through their respective Hookup Guides before continuing with this tutorial:
 
+
 <div class="grid cards" markdown align="center">
 
 -   <a href="https://learn.sparkfun.com/tutorials/9">
