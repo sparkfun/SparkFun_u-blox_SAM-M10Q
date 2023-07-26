@@ -90,7 +90,7 @@ If your chosen microcontroller is not already Qwiic-enabled, you can add that fu
 -   <a href="https://www.sparkfun.com/products/15081">
 
     <figure markdown>
-    ![SparkFun Qwiic Cable Kit)](https://cdn.sparkfun.com//assets/parts/1/3/4/3/1/15081-Qwiic_Cable_Kit_-01.jpg)
+    ![SparkFun Qwiic Cable Kit)](https://cdn.sparkfun.com//assets/parts/1/3/4/3/1/15081-_01.jpg)
     </figure>
     </a>
 
