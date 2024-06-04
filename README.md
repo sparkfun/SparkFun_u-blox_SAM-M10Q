@@ -22,7 +22,9 @@ Documentation
 
 Product Versions
 ----------------
-* [GPS-21834](https://www.sparkfun.com/products/21834)- Initial release
+
+* [GPS-21834](https://www.sparkfun.com/products/21834) - Initial release of GPS Breakout, Chip Antenna - SAM-M10Q (Qwiic)
+
 
 License Information
 -------------------
