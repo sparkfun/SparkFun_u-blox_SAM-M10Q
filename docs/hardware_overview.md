@@ -185,7 +185,7 @@ The two Qwiic connectors route the I<sup>2</sup>C lines (SDA/SCL) as well as 3.3
 
 ### Plated Through Hole Headers
 
-The breakout also includes two sets of 0.1"-spaced plated through hole (PTH) headers. One routes the SAM-M10Q&apos;s UART interface to a header matching the pinout of our [Serial Basic]() and other USB-to-UART boards. The other routes the I<sup>2</sup>C interface, interrupt (INT), safeboot (SAFE), reset (RST), and time pulse (PPS) pins.
+The breakout also includes two sets of 0.1"-spaced plated through hole (PTH) headers. One routes the SAM-M10Q&apos;s UART interface to a header matching the pinout of our [Serial Basic](https://www.sparkfun.com/products/15096) and other USB-to-UART boards. The other routes the I<sup>2</sup>C interface, interrupt (INT), safeboot (SAFE), reset (RST), and time pulse (PPS) pins.
 
 The UART header mates with a <b>3.3V</b> Serial Basic or other USB-to-UART converter. Make sure a connected converter runs at <b>3.3V</b> and not <b>5V</b>.
 
